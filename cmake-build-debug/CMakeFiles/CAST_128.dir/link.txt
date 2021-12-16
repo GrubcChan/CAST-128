@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CAST_128.dir/main.cpp.o CMakeFiles/CAST_128.dir/image_bmp24.cpp.o CMakeFiles/CAST_128.dir/CAST_128.cpp.o -o CAST_128 
